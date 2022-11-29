@@ -55,4 +55,4 @@ Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK,
 
 3. Run your web app: `python run.py`
 
-4. Click the `PREVIEW` button to open the homepage
+4. Click the `PREVIEW` button to open the homepage ( Or access to http://0.0.0.0:3000/ )
